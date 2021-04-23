@@ -1,0 +1,19 @@
+{
+  "name": "Tab Poker",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Tab Poker - extension that helps to manage tab chaos in your Chrome browser. A lot of usefull tabs can be easily stored in one tab. Click on the button and it's done! Every tab is saved into one place. Whenever you want to retrieve particular tab just click on it or click 'Restore all' button and all tabs will be opened",
+
+   "background": {
+     "scripts": ["background.js"]
+   },
+
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+
+  "browser_action": {
+    "default_icon": "images/joker-128.png"
+  }
+}
