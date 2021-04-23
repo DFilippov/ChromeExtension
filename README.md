@@ -1,8 +1,8 @@
 # ChromeExtension
 ChromeExtension - Tab Joker - helps to manage tabs in Chrome browser
 
-Clone project
-Open Crome browser
+Clone project\n
+Open Crome browser\n
 Preferences - Extensions (or in url-field: chrome://extensions)
 Switch developer mode on
 Press "Load Unpacked"
